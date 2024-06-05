@@ -171,7 +171,7 @@ blog: >
   ## Faculty and Research Highlights
 
 
-  ![](</images/Mandur/NCFE Schools - Schools in Mandur - reception 3.jpeg>)
+  ![](</images/Mandur/NCFE Schools - Schools in Mandur - computer lab 5.jpeg>)
 
 
   Our faculty members are the backbone of our institution, bringing a wealth of
