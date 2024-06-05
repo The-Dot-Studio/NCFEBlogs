@@ -86,7 +86,7 @@ blog: >
   ## Innovative Learning Spaces
 
 
-  ![](</images/Mandur/NCFE Schools - Schools in Mandur - computer lab.jpeg>)
+  ![](</images/Mandur/NCFE Schools - Schools in Mandur - reception 3.jpeg>)
 
 
   ### Innovative Design Concepts
