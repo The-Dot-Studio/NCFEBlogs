@@ -4,7 +4,7 @@ publishedDate: 2024-06-04T18:30:00.000Z
 title: A Sneak Peek into Our New Mandur Campus
 thumbnail: /images/Mandur/NCFE School - Best CBSE School in Bangalore - Mandur Campus.jpg
 caption: ''
-blog: >+
+blog: >
   Welcome to a glimpse of the future with our new Mandur Campus, an epitome of
   innovation and excellence. Nestled in one of Bangalore's fastest-growing
   corridors, this campus is designed to be a beacon of learning, sustainability,
@@ -37,7 +37,6 @@ blog: >+
 
 
   ![](</images/Mandur/NCFE Schools - Schools in Mandur - Campus.JPG>)
-
 
 
   ### Campus Vision
@@ -88,7 +87,6 @@ blog: >+
 
 
   ![](</images/Mandur/NCFE Schools - Schools in Mandur - computer lab.jpeg>)
-
 
 
   ### Innovative Design Concepts
@@ -160,7 +158,6 @@ blog: >+
   ## Student Life at Mandur
 
 
-
   ![](/images/Mandur/_DSP6788.jpg)
 
 
@@ -175,7 +172,6 @@ blog: >+
 
 
   ![](</images/Mandur/NCFE Schools - Schools in Mandur - reception 3.jpeg>)
-
 
 
   Our faculty members are the backbone of our institution, bringing a wealth of
@@ -302,7 +298,6 @@ blog: >+
   By focusing on these areas, we aim to create an environment that fosters
   growth, innovation, and excellence, preparing our students to thrive in a
   rapidly changing world.
-
 
 
   ![](/images/Mandur/_DSP7762-2.jpg)
