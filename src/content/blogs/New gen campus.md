@@ -2,7 +2,7 @@
 category: Campus
 publishedDate: 2024-06-18T18:30:00.000Z
 title: New Gen Campus
-thumbnail: /images/Mandur/WhatsApp Image 2024-06-19 at 09.09.06.jpeg
+thumbnail: ''
 caption: |
   New Gen Campus
 blog: >
