@@ -2,7 +2,7 @@
 category: New Logo
 publishedDate: 2024-06-12T18:30:00.000Z
 title: New Logo
-thumbnail: ''
+thumbnail: /images/Mandur/Brand identity - National center for execellence_page-0001.jpg
 caption: >
   ## Unveiling the New Logo of National Centre for Excellence: Inspire
   Excellence
