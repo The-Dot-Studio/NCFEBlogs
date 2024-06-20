@@ -80,25 +80,29 @@ const publishedDate = new Date(data.publishedDate).toLocaleDateString('en-US', {
     
           <div class="max-md:hidden block">
             <div class="md:w-[800px] w-full">
-              <Image 
-                src={data.thumbnail}
-                alt="education-1"
-                class="w-full h-full object-cover rounded-lg"
-                width={800}
-                height={500}
-              />
+              {data.thumbnail && (
+                <Image 
+                  src={data.thumbnail}
+                  alt="education-1"
+                  class="w-full h-full object-cover rounded-lg"
+                  width={800}
+                  height={500}
+                />
+              )}
             </div>
           </div>
 
           <div class="md:hidden block">
             <div class="h-[250px]">
-              <Image 
-                src={data.thumbnail}
-                alt="education-1"
-                class="h-[250px] object-cover"
-                width={800}
-                height={200}
-              />
+              {data.thumbnail && (
+                <Image 
+                  src={data.thumbnail}
+                  alt="education-1"
+                  class="h-[250px] object-cover"
+                  width={800}
+                  height={200}
+                />
+              )}
             </div>
           </div>
         </div>
