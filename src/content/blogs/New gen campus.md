@@ -2,7 +2,7 @@
 category: Campus
 publishedDate: 2024-06-18T18:30:00.000Z
 title: New Gen Campus
-thumbnail: ''
+thumbnail: /images/Mandur/Brand identity - National center for execellence_page-0001.jpg
 caption: |
   New Gen Campus
 blog: >
