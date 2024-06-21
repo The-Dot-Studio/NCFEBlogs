@@ -57,7 +57,8 @@ blog: >
 
   [Read
   More](https://epaper.indiatimes.com/article-share?article=17_06_2024_002_028_toibgc_TOI
-  "Read More")![](</images/Mandur/ncfe schools - schools in bengaluru - TOI
-  Article 2.jpg>)
+  "Read More")\
+
+  ![](</images/Mandur/ncfe schools - schools in bengaluru - TOI Article 2.jpg>)
 ---
 
