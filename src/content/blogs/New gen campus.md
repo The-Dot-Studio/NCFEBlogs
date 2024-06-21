@@ -6,7 +6,10 @@ thumbnail: /images/Mandur/Brand identity - National center for execellence_page-
 caption: |
   New Gen Campus
 blog: >
-  ![](</images/Mandur/WhatsApp Image 2024-06-19 at 09.09.06.jpeg>)\
+  \
+
+  ![](</images/Mandur/ncfe schools - schools in bengaluru - TOI Article.jpg>)
+
 
   Kiran is a fourth-generation educator. While his father N Vijaya Kumar wanted
   to start only one school, Kiran, director of the National Centre for
@@ -52,9 +55,9 @@ blog: >
   valued, supported, and able to reach his/her full potential.
 
 
-  [Read
-  More](https://epaper.indiatimes.com/article-share?article=17_06_2024_002_028_toibgc_TOI)
+  [Read More\
 
-  ![](</images/Mandur/WhatsApp Image 2024-06-19 at 09.09.15.jpeg>)
+  ](https://epaper.indiatimes.com/article-share?article=17_06_2024_002_028_toibgc_TOI)![](</images/Mandur/ncfe
+  schools - schools in bengaluru - TOI Article 2.jpg>)
 ---
 
